@@ -12,6 +12,6 @@ package test.newtestgit;
 public class NewTestGit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World me!");
+        System.out.println("Hello World me 123!");
     }
 }
